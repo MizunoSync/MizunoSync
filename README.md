@@ -32,7 +32,7 @@
 ## 💛 tech stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,powershell,electron" />
+  <img src="https://skillicons.dev/icons?i=python,html,powershell,electron,javascript" />
 </div>
 
 <!-- badges for icons not available on skillicons -->
