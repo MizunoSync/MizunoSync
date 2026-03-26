@@ -29,7 +29,7 @@
 
 <br/>
 
-## 💛 Programming Languages in most interested in.
+## 💛 Programming Languages im most interested in
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,html,powershell,electron,javascript" />
@@ -43,7 +43,7 @@
 
 <br/>
 
-## 📚 plan on learning
+## 📚 Programming languages i plan on learning
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql" />
@@ -51,12 +51,24 @@
 
 <br/>
 
-## 🌍 languages
+## 🌍 Languages
 
+**fluent**
 <p align="left">
   <img src="https://img.shields.io/badge/Portuguese-009C3B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/English-3A3A3A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Spanish-AA151B?style=for-the-badge&logoColor=white" />
+</p>
+
+**plan on learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/Italian-008C45?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/French-002395?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/German-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Russian-0033A0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Korean-CD2E3A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Japanese-BC002D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mandarin-DE2910?style=for-the-badge&logoColor=white" />
 </p>
 
 **OS**
