@@ -65,8 +65,8 @@
 
 **🖥️ os**
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/250px-Windows_10_Logo.svg.png" width="40px" title="Windows10"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/330px-Android_2023_3D_logo_and_wordmark.svg.png" width="40px" title="Android"/>
 </p>
 
 **🐧 linux distros i want to explore**
