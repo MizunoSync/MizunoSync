@@ -81,3 +81,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=AnataWom&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=c94b4b,e8a838,f5e6ca&height=150&section=footer&animation=fadeIn" width="100%"/>
+</div>
