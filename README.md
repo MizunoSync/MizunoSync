@@ -75,7 +75,14 @@
 
 **🐧 linux distros i want to explore**
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,debian,ubuntu,fedora,nixos,kde,hyprland,cachyos" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=debian" title="Debian" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" title="Ubuntu" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" title="Fedora" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nixos" title="NixOS" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kde" title="KDE" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" title="Hyprland" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos" title="CachyOS" />
   <img src="https://blackarch.org/images/logo/ba-logo.png" width="40px" title="BlackArch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/EndeavourOS_Logo.svg/120px-EndeavourOS_Logo.svg.png" width="40px" title="EndeavourOS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zorin_Logomark.svg/120px-Zorin_Logomark.svg.png" width="40px" title="Zorin OS"/>
