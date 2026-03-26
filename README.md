@@ -80,9 +80,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png" width="40px" title="Linux"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/120px-Oracle_logo.svg.png" width="40px" title="OracleLinux"/>
 </div>
-<div align="left"><br/>
-  <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
 
 <br/>
 
