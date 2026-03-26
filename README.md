@@ -44,6 +44,22 @@
 
 <br/>
 
+## 📚 plan on learning
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql" />
+</div>
+
+<br/>
+
+## 🌍 languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Portuguese-009C3B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-3A3A3A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spanish-AA151B?style=for-the-badge&logoColor=white" />
+</p>
+
 **OS**
 <p align="left">
   <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
