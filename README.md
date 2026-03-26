@@ -99,12 +99,12 @@
 
 ## 🎓 certifications i plan on getting
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" />
-</div>
-<div align="left"><br/>
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="35px" style="border-radius:6px;" />
   <img src="https://img.shields.io/badge/Alura-0747A6?style=for-the-badge&logoColor=white" />
-</div>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 <br/>
 
