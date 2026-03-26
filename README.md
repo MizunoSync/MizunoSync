@@ -29,13 +29,12 @@
 
 <br/>
 
-## 💛 tech stack
+## 💛 Programming Languages in most interested in.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,html,powershell,electron,javascript" />
 </div>
 
-<!-- badges for icons not available on skillicons -->
 <div align="left">
   <img src="https://img.shields.io/badge/Luau-e8a838?style=for-the-badge&logo=lua&logoColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Batch-2a2a3e?style=for-the-badge&logo=windows-terminal&logoColor=f5e6ca" />
@@ -80,10 +79,6 @@
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=AnataWom&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c94b4b,e8a838,f5e6ca&height=150&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
