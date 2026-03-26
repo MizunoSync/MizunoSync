@@ -77,7 +77,13 @@
 
 **🛠️ Tools & apps**
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,git,discord,obs,figma,notepadpp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" title="Visual Studio Code" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" title="Visual Studio" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" title="Discord" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=obs" title="OBS Studio" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=notepadpp" title="Notepad++" />
 </div>
 
 <br/>
