@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="[https://i.imgur.com/placeholder.png](https://i.pinimg.com/736x/d8/34/76/d83476dbab4a0929df7b47305cb75820.jpg)" width="120px" /> <!-- optional Braixen pixel art/gif here -->
+<img src="https://i.pinimg.com/736x/d8/34/76/d83476dbab4a0929df7b47305cb75820.jpg" width="120px" />
 
-# ✦ MizunoSync ✦
-*fire-type dev. spends way too long making things feel just right.*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Velq%20%7C%20MizunoSync&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+  <br/>
 
 ![](https://img.shields.io/badge/-🔥%20code%20witch%20in%20training-1a1a2e?style=flat-square)
 ![](https://img.shields.io/badge/-luau%20%2F%20python%20%2F%20powershell-c94b4b?style=flat-square)
@@ -21,12 +23,9 @@
 
 ## 🦊 about me
 
-> *like Braixen, i'm always carrying something powerful — mine just happens to be in a script file.*
-
-- 🔥 currently crafting **game scripting systems**, polished custom UIs, and backend key validation
-- 🛠️ i build **game HUDs, chat systems, Python API tools**, and secure automation scripts
-- 🎮 obsessed with game modding, workflow automation, and squeezing every drop of polish out of a project
-- ✨ if it can feel smoother, look cleaner, or run smarter — i'm already on it
+- 🔥 i do random **game scripting systems**, dumb custom UIs, and backend key validation
+- 🛠️ i build **game HUDs,Python API tools**, and automation scripts
+- 🎮 obsessed with game modding, and trying random things
 
 <br/>
 
