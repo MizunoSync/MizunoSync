@@ -52,7 +52,7 @@
 
 **📚 Plan on learning**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql,dotnet,rust,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql,dotnet,rust,kotlin,ts,nodejs" />
 </div>
 
 <br/>
@@ -75,7 +75,7 @@
 
 **🐧 linux distros i want to explore**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,fedora,nixos" />
+  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,fedora,nixos,kde" />
 </div>
 <div align="left"><br/>
   <img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
@@ -85,6 +85,7 @@
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot%20OS-31A8C9?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=1a1a2e" />
 </div>
 
 <br/>
