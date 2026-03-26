@@ -41,6 +41,11 @@
 
 <br/>
 
+**OS**
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
 ## 🔥 activity
 
 <div align="center">
@@ -51,4 +56,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/thanks%20for%20visiting%20🦊-1a1a2e?style=for-the-badge&labelColor=c94b4b&color=e8a838" />
+</div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=AnataWom&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
