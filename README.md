@@ -113,7 +113,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=aws](https://images.credly.com/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" />
+  <img src="ttps://images.credly.com/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" />
   <img src="https://img.shields.io/badge/Alura-0747A6?style=for-the-badge&logoColor=white" />
 </p>
 
