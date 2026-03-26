@@ -58,10 +58,7 @@
 
 **🛠️ Tools & apps**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,discord,figma" />
-</div>
-<div align="left"><br/>
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=1a1a2e" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,git,discord,obs,figma,notepadpp" />
 </div>
 
 <br/>
