@@ -1,9 +1,10 @@
-<div align="center">
-  <img src="https://i.pinimg.com/736x/d8/34/76/d83476dbab4a0929df7b47305cb75820.jpg" width="120px" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Velq%20%7C%20MizunoSync&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+  <div align="center">
+  <img src="https://i.pinimg.com/736x/d8/34/76/d83476dbab4a0929df7b47305cb75820.jpg" width="120px" />
+</div>
 
   <br/>
 
