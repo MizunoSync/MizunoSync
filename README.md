@@ -58,7 +58,7 @@
 
 <br/>
 
-**📚 Plan on learning**
+**📚 Programming languages i plan on learning**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
@@ -124,7 +124,7 @@
   <img src="https://img.shields.io/badge/🇪🇸%20Spanish-AA151B?style=for-the-badge&logoColor=white" />
 </p>
 
-**Plan on learning**
+**Languages i plan on learning**
 <p align="left">
   <img src="https://img.shields.io/badge/🇮🇹%20Italian-008C45?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇫🇷%20French-002395?style=for-the-badge&logoColor=white" />
