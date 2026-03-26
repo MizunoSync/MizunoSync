@@ -37,7 +37,7 @@
 
 ## 💻 tech
 
-**💛 Programming languages im learning**
+**💛 Programming languages im currently learning**
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python" title="Python" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" title="PowerShell" />
@@ -57,7 +57,7 @@
 
 <br/>
 
-**📚 Programming & Web languages i plan on learning**
+**📚 Programming & Web/Framework languages i plan on learning**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
