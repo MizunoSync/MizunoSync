@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Velq%20%7C%20MizunoSync&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://i.pinimg.com/originals/de/cd/32/decd32a9d796ebcb6467c3bfedc899d7.gif" width="200px" />
 </div>
 
 <div align="center">
