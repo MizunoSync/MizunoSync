@@ -51,7 +51,9 @@
 
 **🌐 Web languages**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
 </div>
 
 <br/>
