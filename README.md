@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🦊 about me
+## 🦊 About me
 
 - 🔥 i do random **game scripting systems**, dumb custom UIs, and backend key validation
 - 🛠️ i build **game HUDs, Python API tools**, and automation scripts
@@ -31,7 +31,7 @@
 
 ## 💻 tech
 
-**💛 programming languages**
+**💛 Programming languages**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,powershell,electron" />
 </div>
@@ -43,23 +43,23 @@
 
 <br/>
 
-**🌐 web languages**
+**🌐 Web languages**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
 <br/>
 
-**📚 plan on learning**
+**📚 Plan on learning**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql,dotnet,rust" />
 </div>
 
 <br/>
 
-**🛠️ tools & apps**
+**🛠️ Tools & apps**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,discord,obs,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,discord,figma" />
 </div>
 <div align="left"><br/>
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=1a1a2e" />
@@ -75,16 +75,16 @@
 
 <br/>
 
-## 🌍 languages
+## 🌍 Languages
 
-**fluent**
+**Fluent**
 <p align="left">
   <img src="https://img.shields.io/badge/🇧🇷%20Portuguese-009C3B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇺🇸%20English-3A3A3A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇪🇸%20Spanish-AA151B?style=for-the-badge&logoColor=white" />
 </p>
 
-**plan on learning**
+**Plan on learning**
 <p align="left">
   <img src="https://img.shields.io/badge/🇮🇹%20Italian-008C45?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇫🇷%20French-002395?style=for-the-badge&logoColor=white" />
@@ -97,7 +97,7 @@
 
 <br/>
 
-## 🎓 certifications i plan on getting
+## 🎓 Certifications i plan on getting
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="35px" style="border-radius:6px;" />
@@ -107,7 +107,7 @@
 
 <br/>
 
-## 🔥 activity
+## 🔥 Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizunoSync&bg_color=1a1a2e&color=e8a838&line=c94b4b&point=f5e6ca&hide_border=true" width="100%" />
