@@ -85,7 +85,6 @@
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot%20OS-31A8C9?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=1a1a2e" />
 </div>
 
 <br/>
