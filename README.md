@@ -99,10 +99,12 @@
 
 ## 🎓 certifications i plan on getting
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Alura-0747A6?style=for-the-badge&logo=alura&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</div>
+<div align="left"><br/>
+  <img src="https://img.shields.io/badge/Alura-0747A6?style=for-the-badge&logoColor=white" />
+</div>
 
 <br/>
 
