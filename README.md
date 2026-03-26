@@ -18,6 +18,8 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MizunoSync&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=e8a838&icon_color=c94b4b&text_color=f5e6ca&bg_color=1a1a2e" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunoSync&layout=compact&langs_count=5&hide_border=true&title_color=e8a838&text_color=f5e6ca&bg_color=1a1a2e" />
+  <img src="https://streak-stats.demolab.com?user=MizunoSync&theme=tokyonight&hide_border=true&ring=c94b4b&fire=e8a838&currStreakLabel=f5e6ca" />
+</div>
 </div>
 
 <br/>
