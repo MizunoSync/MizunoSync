@@ -72,20 +72,20 @@
 
 **fluent**
 <p align="left">
-  <img src="https://img.shields.io/badge/Portuguese-009C3B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-3A3A3A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spanish-AA151B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇧🇷%20Portuguese-009C3B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇺🇸%20English-3A3A3A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇪🇸%20Spanish-AA151B?style=for-the-badge&logoColor=white" />
 </p>
 
 **plan on learning**
 <p align="left">
-  <img src="https://img.shields.io/badge/Italian-008C45?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/French-002395?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/German-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Russian-0033A0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Korean-CD2E3A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Japanese-BC002D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mandarin-DE2910?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇮🇹%20Italian-008C45?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇫🇷%20French-002395?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇩🇪%20German-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇷🇺%20Russian-0033A0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇰🇷%20Korean-CD2E3A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇯🇵%20Japanese-BC002D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇨🇳%20Mandarin-DE2910?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
