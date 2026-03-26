@@ -32,11 +32,14 @@
 ## 💛 tech stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-c94b4b?style=for-the-badge&logo=python&logoColor=f5e6ca" />
+  <img src="https://skillicons.dev/icons?i=python,html,powershell,electron" />
+</div>
+
+<!-- badges for icons not available on skillicons -->
+<div align="left">
   <img src="https://img.shields.io/badge/Luau-e8a838?style=for-the-badge&logo=lua&logoColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/HTML5-c94b4b?style=for-the-badge&logo=html5&logoColor=f5e6ca" />
-  <img src="https://img.shields.io/badge/PowerShell-1a1a2e?style=for-the-badge&logo=powershell&logoColor=e8a838" />
   <img src="https://img.shields.io/badge/Batch-2a2a3e?style=for-the-badge&logo=windows-terminal&logoColor=f5e6ca" />
+  <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
 </div>
 
 <br/>
