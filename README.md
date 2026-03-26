@@ -121,6 +121,8 @@
 
 <br/>
 
+## 🔠 Typing Speed
+
 <div align="center">
   <a href="https://monkeytype.com/profile/Mizu.">
     <img src="https://img.shields.io/badge/Monkeytype-127WPM-1a1a2e?style=for-the-badge&logo=monkeytype&logoColor=e8a838" />
