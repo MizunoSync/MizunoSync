@@ -20,12 +20,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunoSync&layout=compact&langs_count=5&hide_border=true&title_color=e8a838&text_color=f5e6ca&bg_color=1a1a2e" />
   <img src="https://streak-stats.demolab.com?user=MizunoSync&theme=tokyonight&hide_border=true&ring=c94b4b&fire=e8a838&currStreakLabel=f5e6ca" />
   
-  ## 🎵 now playing
 
-<div align="center">
-  <a href="https://open.spotify.com/user/hh9v064zdyfka0fgrci196i91">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hh9v064zdyfka0fgrci196i91&cover_image=true&theme=novatorem&bar_color=c94b4b&bar_color_cover=false" />
-  </a>
 </div>
 </div>
 </div>
