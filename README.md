@@ -142,7 +142,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" title="AmazonWebServices"/>
   <img src="https://images.credly.com/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="50px" title="Coursera"/>
-  <img src="https://img.shields.io/badge/Alura-0747A6?style=for-the-badge&logoColor=white" title="Alura"/>
+  <img src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" title="Alura"/>
 </p>
 
 <br/>
