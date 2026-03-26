@@ -52,7 +52,7 @@
 
 **📚 Plan on learning**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql,dotnet,rust" />
+  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql,dotnet,rust,kotlin" />
 </div>
 
 <br/>
