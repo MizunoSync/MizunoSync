@@ -76,7 +76,7 @@
 <div align="left"><br/>
   <img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/EndeavourOS_logo.svg" width="40px" title="EndeavourOS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/ZorinOS_logo.svg" width="40px" title="Zorin OS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zorin_Logomark.svg/120px-Zorin_Logomark.svg.png" width="40px" title="Zorin OS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="40px" title="Linux Mint"/>
   <img src="https://parrotsec.org/docs/img/parrot-logo.svg" width="40px" title="Parrot OS"/>
   <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
