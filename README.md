@@ -34,10 +34,8 @@
 **💛 Programming languages**
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,powershell,electron,luau" />
-</div>
-<div align="left"><br/>
-  <img src="https://img.shields.io/badge/Batch-2a2a3e?style=for-the-badge&logo=windows-terminal&logoColor=f5e6ca" />
-  <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
+    <img src="https://en.wikipedia.org/wiki/File:Modern_AutoHotkey_Logo_(no_text).svg" width="40px" title="AutoHotkey"/>
 </div>
 
 <br/>
