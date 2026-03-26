@@ -58,7 +58,7 @@
 
 <br/>
 
-**📚 Programming languages i plan on learning**
+**📚 Programming & Web languages i plan on learning**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
@@ -88,13 +88,13 @@
 
 <br/>
 
-**🖥️ os**
+**🖥️ OS**
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/250px-Windows_10_Logo.svg.png" width="120px" title="Windows10"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/330px-Android_2023_3D_logo_and_wordmark.svg.png" width="120px" title="Android"/>
 </p>
 
-**🐧 linux distros i want to explore**
+**🐧 Linux distros & Tools i want to explore**
 <div align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=arch" title="Arch Linux" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=debian" title="Debian" />
