@@ -84,6 +84,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=obs" title="OBS Studio" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=notepadpp" title="Notepad++" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
 </div>
 
 <br/>
