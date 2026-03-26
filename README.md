@@ -73,6 +73,20 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+**🐧 linux distros i want to explore**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,fedora,nixos" />
+</div>
+<div align="left"><br/>
+  <img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/EndeavourOS-7B3F9E?style=for-the-badge&logo=endeavouros&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-1A73E8?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zorin%20OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-31A8C9?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</div>
+
 <br/>
 
 ## 🌍 Languages
