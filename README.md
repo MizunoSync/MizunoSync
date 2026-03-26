@@ -33,10 +33,9 @@
 
 **💛 Programming languages**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,powershell,electron" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,powershell,electron,luau" />
 </div>
 <div align="left"><br/>
-  <img src="https://img.shields.io/badge/Luau-e8a838?style=for-the-badge&logo=lua&logoColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Batch-2a2a3e?style=for-the-badge&logo=windows-terminal&logoColor=f5e6ca" />
   <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
 </div>
