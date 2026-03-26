@@ -75,7 +75,7 @@
 
 **🐧 linux distros i want to explore**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,fedora,nixos,kde" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,debian,ubuntu,fedora,nixos,kde,hyprland" />
 </div>
 <div align="left"><br/>
   <img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
