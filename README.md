@@ -75,10 +75,10 @@
 </div>
 <div align="left"><br/>
   <img src="https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/EndeavourOS-7B3F9E?style=for-the-badge&logo=endeavouros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zorin%20OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-31A8C9?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/EndeavourOS_logo.svg" width="40px" title="EndeavourOS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/ZorinOS_logo.svg" width="40px" title="Zorin OS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="40px" title="Linux Mint"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Parrot_OS_logo.svg" width="40px" title="Parrot OS"/>
   <img src="https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
