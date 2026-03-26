@@ -60,7 +60,17 @@
 
 **📚 Plan on learning**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql,dotnet,rust,kotlin,ts,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
 </div>
 
 <br/>
