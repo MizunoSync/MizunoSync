@@ -35,7 +35,7 @@
 <div align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,powershell,electron,luau" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Batch_file_icon.png/120px-Batch_file_icon.png" width="40px" title="Batch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Modern_AutoHotkey_Logo_%28no_text%29.svg/1920px-Modern_AutoHotkey_Logo_%28no_text%29.svg.png" width="40px" title="AutoHotkey"/>
+  <img src="https://www.autohotkey.com/static/ahk_logo_no_text.svg" width="40px" title="AutoHotkey"/>
 </div>
 
 <br/>
