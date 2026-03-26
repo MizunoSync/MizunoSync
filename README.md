@@ -29,12 +29,12 @@
 
 <br/>
 
-## 💛 programming languages
+## 💻 tech
 
+**💛 programming languages**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,powershell,electron" />
 </div>
-
 <div align="left"><br/>
   <img src="https://img.shields.io/badge/Luau-e8a838?style=for-the-badge&logo=lua&logoColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Batch-2a2a3e?style=for-the-badge&logo=windows-terminal&logoColor=f5e6ca" />
@@ -43,24 +43,31 @@
 
 <br/>
 
-## 🌐 web languages
-
+**🌐 web languages**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
 <br/>
 
-## 📚 plan on learning
-
+**📚 plan on learning**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql,dotnet,rust" />
 </div>
 
 <br/>
 
-## 🖥️ os
+**🛠️ tools & apps**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,discord,obs,figma" />
+</div>
+<div align="left"><br/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=1a1a2e" />
+</div>
 
+<br/>
+
+**🖥️ os**
 <p align="left">
   <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -87,16 +94,6 @@
   <img src="https://img.shields.io/badge/🇯🇵%20Japanese-BC002D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🇨🇳%20Mandarin-DE2910?style=for-the-badge&logoColor=white" />
 </p>
-
-## 🛠️ tools & apps
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,discord,obs,figma" />
-</div>
-
-<div align="left"><br/>
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=1a1a2e" />
-</div>
 
 <br/>
 
