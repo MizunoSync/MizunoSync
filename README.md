@@ -48,7 +48,7 @@
 
 <br/>
 
-**🌐 Web languages**
+**🌐 Web languages im currently learning**
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" title="HTML" />
 <img src="https://skillicons.dev/icons?i=css" title="CSS" />
