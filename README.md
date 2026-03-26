@@ -1,14 +1,14 @@
 <div align="center">
-
-<img src="https://i.pinimg.com/736x/d8/34/76/d83476dbab4a0929df7b47305cb75820.jpg" width="120px" />
+  <img src="https://i.pinimg.com/736x/d8/34/76/d83476dbab4a0929df7b47305cb75820.jpg" width="120px" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Velq%20%7C%20MizunoSync&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
   <br/>
 
-![](https://img.shields.io/badge/-🔥%20code%20witch%20in%20training-1a1a2e?style=flat-square)
-![](https://img.shields.io/badge/-luau%20%2F%20python%20%2F%20powershell-c94b4b?style=flat-square)
+  ![](https://img.shields.io/badge/-🔥%20code%20witch%20in%20training-1a1a2e?style=flat-square)
+  ![](https://img.shields.io/badge/-luau%20%2F%20python%20%2F%20powershell-c94b4b?style=flat-square)
 
 </div>
 
@@ -24,18 +24,18 @@
 ## 🦊 about me
 
 - 🔥 i do random **game scripting systems**, dumb custom UIs, and backend key validation
-- 🛠️ i build **game HUDs,Python API tools**, and automation scripts
+- 🛠️ i build **game HUDs, Python API tools**, and automation scripts
 - 🎮 obsessed with game modding, and trying random things
 
 <br/>
 
-## 💛 Programming Languages im most interested in
+## 💛 programming languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,powershell,electron,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,electron,javascript" />
 </div>
 
-<div align="left">
+<div align="left"><br/>
   <img src="https://img.shields.io/badge/Luau-e8a838?style=for-the-badge&logo=lua&logoColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Batch-2a2a3e?style=for-the-badge&logo=windows-terminal&logoColor=f5e6ca" />
   <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
@@ -43,7 +43,15 @@
 
 <br/>
 
-## 📚 Programming languages i plan on learning
+## 🌐 web languages
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</div>
+
+<br/>
+
+## 📚 plan on learning
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,mysql" />
@@ -51,7 +59,16 @@
 
 <br/>
 
-## 🌍 Languages
+## 🖥️ os
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+<br/>
+
+## 🌍 languages
 
 **fluent**
 <p align="left">
@@ -71,11 +88,7 @@
   <img src="https://img.shields.io/badge/Mandarin-DE2910?style=for-the-badge&logoColor=white" />
 </p>
 
-**OS**
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+<br/>
 
 ## 🔥 activity
 
