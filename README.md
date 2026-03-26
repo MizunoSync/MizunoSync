@@ -32,7 +32,7 @@
 ## 💛 programming languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,powershell,electron,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,electron" />
 </div>
 
 <div align="left"><br/>
