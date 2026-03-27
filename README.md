@@ -73,6 +73,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
   <img src="https://skillicons.dev/icons?i=webassembly" title="WA" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=golang" title="GO" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
 </div>
 
