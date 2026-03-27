@@ -51,7 +51,7 @@
 **🌐 Web languages im currently learning**
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=css" title="CSS" />
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
 </div>
 
