@@ -58,7 +58,7 @@
 
 <br/>
 
-**📚 Programming & Web/Framework languages i plan on learning**
+**📚 Programming & Web/Framework languages & libraries i plan on learning**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
@@ -66,6 +66,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="sqlite" />
   <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
   <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
@@ -75,6 +76,7 @@
   <img src="https://skillicons.dev/icons?i=webassembly" title="WA" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=golang" title="GO" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
 </div>
 
@@ -92,6 +94,8 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=notepadpp" title="Notepad++" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" title="NPM" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ffmpeg" title="ffmpeg" />
+  <img src="https://skillicons.dev/icons?i=insomnia" title="insomnia" />
 </div>
 
 <br/>
