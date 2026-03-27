@@ -71,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=electron" title="Electron" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang" title="GO" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
 </div>
 
@@ -86,6 +87,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=notepadpp" title="Notepad++" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" title="GIMP" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" title="NPM" />
 </div>
 
 <br/>
