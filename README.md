@@ -96,6 +96,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" title="NPM" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ffmpeg" title="ffmpeg" />
   <img src="https://skillicons.dev/icons?i=insomnia" title="insomnia" />
+  <img src="https://skillicons.dev/icons?i=wireshark" title="wireshark" />
 </div>
 
 <br/>
