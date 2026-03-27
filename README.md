@@ -71,6 +71,7 @@
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=electron" title="Electron" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" title="Assembly" />
+  <img src="https://skillicons.dev/icons?i=webassembly" title="WA" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=golang" title="GO" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
 </div>
@@ -82,6 +83,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" title="Visual Studio Code" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" title="Visual Studio" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git" title="Git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" title="GitBash" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" title="Discord" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=obs" title="OBS Studio" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" title="Figma" />
