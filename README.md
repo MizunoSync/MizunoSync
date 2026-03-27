@@ -60,6 +60,7 @@
 **📚 Programming & Web/Framework languages i plan on learning**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=Assembly" title="Assembly" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
