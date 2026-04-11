@@ -181,7 +181,7 @@
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=AnataWom&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=MizunoSync&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 <div align="center">
